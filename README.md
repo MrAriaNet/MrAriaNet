@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on ...
 -    * Google Datacenters
 - 📫 How to reach me ...
--    * aria[at]linux[dot]study
+-    * aria[at]fcp-network[dot]net
 
 <!---
 MrAriaNet/MrAriaNet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
