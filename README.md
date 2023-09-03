@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @MrAriaNet
 - 👀 I’m interested in ...
--    * Webhosting
--    * Virtualiztion
--    * PHP and Python Programming
-- 🌱 I’m currently learning ...
 -    * DevOps
--    * Cloud Services
+-    * Virtualiztion
+-    * PHP Programming
 -    * Network Management and Routing
+- 🌱 I’m currently learning ...
+-    * Cloud Services
 - 💞️ I’m looking to collaborate on ...
 -    * Google Datacenters
 - 📫 How to reach me ...
