@@ -17,7 +17,7 @@
 - **DevOps**
 - **Virtualiztion**: VMWare, KVM, Xen
 - **Network Engineering**: BGP (Configuration, Security), DDoS Mitigation, Routing & ...
-- **PHP Programming**
+- **Programming with Bash Script, PHP, Node.js, and Python**
 
 ---
 
