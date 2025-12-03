@@ -35,9 +35,22 @@
 
 ## 📈 GitHub Stats
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAriaNet&theme=default" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrAriaNet&theme=default" alt="Top Languages by Repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrAriaNet&theme=default" alt="Top Languages by Commit" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrAriaNet&theme=default" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrAriaNet&theme=default&utcOffset=8" alt="Commits" />
+</div>
+
+<!-- ## 📈 GitHub Stats
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrAriaNet&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAriaNet&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
